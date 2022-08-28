@@ -28,7 +28,7 @@ for (var key in themes) {
   }
 }
 
-pantoneColors["mocha"]["crust"] = {pantone:"?-7547", hex: "#1A2732", name:"mirage"}
+pantoneColors["mocha"]["crust"] = {hex:"#11111b", pantone:{pantone:"?-7547", hex: "#1A2732", name:"mirage"}}
 // set the crust color on mocha, which for some reason doesn't exist in the pantone module i am using
 
 
