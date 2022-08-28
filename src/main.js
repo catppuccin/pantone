@@ -2,6 +2,7 @@ import pant from "nearest-pantone"
 import themes from "./themeparser.js"
 import tableify from "./tableify.js"
 import markdowngen from "./markdowngen.js"
+import comparimage from './image.js'
 // import the pantone library and the theme
 
 let pantoneColors = {}
@@ -16,7 +17,6 @@ let pantoneColors = {}
 
 
 for (var key in themes) {
-  console.log(key)
   pantoneColors[key] = {}
   for (var key2 in themes[key]) {
     let hex = themes[key][key2]["hex"];
@@ -24,7 +24,7 @@ for (var key in themes) {
     let color = key2;
 
     let pantone = pant.getClosestColor(hex)
-    pantoneColors[themename][color] = pantone
+    pantoneColors[themename][color] = { pantone:pantone, hex: hex}
   }
 }
 
