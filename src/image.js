@@ -18,6 +18,7 @@ function comparimage(flavor, colorname, colorhex, pantonehex) {
 		.catch((err) => {
 			console.log(err);
 		});
+	return ('https://github.com/catppuccin/pantone/assets/' + flavor + '-' + colorname + '-compare.png')
 }
 
 export default comparimage
