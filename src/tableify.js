@@ -13,7 +13,7 @@ function tableify(data) {
     for (var key2 in data[key]) {
 
 	  let imagepath = comparimage(key, key2, data[key][key2]["hex"], data[key][key2]["pantone"]["hex"])
-      let speclist = ["![](" + imagepath + ")" ,key2, "`" + data[key][key2]["pantone"]["pantone"] + "`", data[key][key2]["pantone"]["name"]]
+      let speclist = ["![ ](https://raw.githubusercontent.com/catppuccin/pantone/main/assets/" + imagepath + ")" ,key2, "`" + data[key][key2]["pantone"]["pantone"] + "`", data[key][key2]["pantone"]["name"]]
       colorlist.push(speclist)
     }
 
