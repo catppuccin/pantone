@@ -1,7 +1,9 @@
 {
   "dependencies": {
     "markdown-table": "^3.0.2",
-    "nearest-pantone": "^1.0.1"
+    "nearest-pantone": "^1.0.1",
+    "prettier": "^2.7.1",
+    "sharp": "^0.30.7"
   },
-  "type":"module"
+  "type": "module"
 }
