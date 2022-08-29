@@ -6,9 +6,9 @@
 </h3>
 
 <p align="center">
-	<a href="https://github.com/bluefalconhd/pantone/stargazers"><img src="https://img.shields.io/github/stars/bluefalconhd/pantone?colorA=363a4f&colorB=b7bdf8&style=for-the-badge"></a>
-	<a href="https://github.com/bluefalconhd/pantone/issues"><img src="https://img.shields.io/github/issues/bluefalconhd/pantone?colorA=363a4f&colorB=f5a97f&style=for-the-badge"></a>
-	<a href="https://github.com/catppuccin/template/contributors"><img src="https://img.shields.io/github/contributors/catppuccin/template?colorA=363a4f&colorB=a6da95&style=for-the-badge"></a>
+	<a href="https://github.com/catppuccin/pantone/stargazers"><img src="https://img.shields.io/github/stars/catppuccin/pantone?colorA=363a4f&colorB=b7bdf8&style=for-the-badge"></a>
+	<a href="https://github.com/catppuccin/pantone/issues"><img src="https://img.shields.io/github/issues/catppuccin/pantone?colorA=363a4f&colorB=f5a97f&style=for-the-badge"></a>
+	<a href="https://github.com/catppuccin/pantone/contributors"><img src="https://img.shields.io/github/contributors/catppuccin/pantone?colorA=363a4f&colorB=a6da95&style=for-the-badge"></a>
 </p>
 
 
