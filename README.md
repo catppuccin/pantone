@@ -12,8 +12,10 @@
 </p>
 
 
+## ℹ️ Information
+Pantone is a color standard made for real world colors. Pantone has (undisclosed) info for each color like how much of each color paint goes into each color. This basically brings digital colors to the real world.
 
-## Colors
+## 🌈 Colors
 
 <details>
 	<summary>🌻 latte</summary>
@@ -147,7 +149,7 @@
 | ![ ](https://raw.githubusercontent.com/catppuccin/pantone/main/assets/mocha-crust-compare.png)     | crust                 | `?-7547`     | mirage             |
 </details>
 
-## Usage
+## ⚙️ Usage
 
 1. Clone this repository
 2. `cd` into the src directory
