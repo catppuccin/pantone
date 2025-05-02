@@ -404,134 +404,134 @@
   "mocha": {
     "colors": {
       "rosewater": {
-        "name": "",
-        "pantone": "",
-        "tcx": ""
+        "name": "Delicacy",
+        "pantone": "#F5E3E2",
+        "tcx": "11-2409 TCX"
       },
       "flamingo": {
-        "name": "",
-        "pantone": "",
-        "tcx": ""
+        "name": "Pink Dogwood",
+        "pantone": "#F7D1D1",
+        "tcx": "12-1706 TCX"
       },
       "pink": {
-        "name": "",
-        "pantone": "",
-        "tcx": ""
+        "name": "Pirouette",
+        "pantone": "#EDBEDC",
+        "tcx": "14-3205 TCX"
       },
       "mauve": {
-        "name": "",
-        "pantone": "",
-        "tcx": ""
+        "name": "Mauve Mist",
+        "pantone": "#C49BD4",
+        "tcx": "15-3207 TCX"
       },
       "red": {
-        "name": "",
-        "pantone": "",
-        "tcx": ""
+        "name": "Thinking Pink",
+        "pantone": "#EE91A9",
+        "tcx": "15-2122 TCX"
       },
       "maroon": {
-        "name": "",
-        "pantone": "",
-        "tcx": ""
+        "name": "Peony",
+        "pantone": "#ED9CA8",
+        "tcx": "15-1816 TCX"
       },
       "peach": {
-        "name": "",
-        "pantone": "",
-        "tcx": ""
+        "name": "Peach Cobbler",
+        "pantone": "#FFB181",
+        "tcx": "14-1231 TCX"
       },
       "yellow": {
-        "name": "",
-        "pantone": "",
-        "tcx": ""
+        "name": "Flan",
+        "pantone": "#F6E3B4",
+        "tcx": "11-0619 TCX"
       },
       "green": {
-        "name": "",
-        "pantone": "",
-        "tcx": ""
+        "name": "Paradise Green",
+        "pantone": "#B2E79F",
+        "tcx": "13-0220 TCX"
       },
       "teal": {
-        "name": "",
-        "pantone": "",
-        "tcx": ""
+        "name": "Beach Glass",
+        "pantone": "#96DFCE",
+        "tcx": "13-5412 TCX"
       },
       "sky": {
-        "name": "",
-        "pantone": "",
-        "tcx": ""
+        "name": "Clear Tides",
+        "pantone": "#84D9E9",
+        "tcx": "14-4714 TCX"
       },
       "sapphire": {
-        "name": "",
-        "pantone": "",
-        "tcx": ""
+        "name": "Splish Splash",
+        "pantone": "#69BBDD",
+        "tcx": "16-4520 TCX"
       },
       "blue": {
-        "name": "",
-        "pantone": "",
-        "tcx": ""
+        "name": "Open Air",
+        "pantone": "#94B2DF",
+        "tcx": "15-3922 TCX"
       },
       "lavender": {
-        "name": "",
-        "pantone": "",
-        "tcx": ""
+        "name": "Windsurfer",
+        "pantone": "#A3BBE0",
+        "tcx": "15-4031 TCX"
       },
       "text": {
-        "name": "",
-        "pantone": "",
-        "tcx": ""
+        "name": "Halogen Blue",
+        "pantone": "#BDC6DC",
+        "tcx": "13-3920 TCX"
       },
       "subtext1": {
-        "name": "",
-        "pantone": "",
-        "tcx": ""
+        "name": "Xenon Blue",
+        "pantone": "#B7C0D7",
+        "tcx": "14-3949 TCX"
       },
       "subtext0": {
-        "name": "",
-        "pantone": "",
-        "tcx": ""
+        "name": "Icelandic Blue",
+        "pantone": "#A9ADC2",
+        "tcx": "15-3908 TCX"
       },
       "overlay2": {
-        "name": "",
-        "pantone": "",
-        "tcx": ""
+        "name": "Eventide",
+        "pantone": "#959EB7",
+        "tcx": "16-3919 TCX"
       },
       "overlay1": {
-        "name": "",
-        "pantone": "",
-        "tcx": ""
+        "name": "Silver Bullet",
+        "pantone": "#81839A",
+        "tcx": "17-3933 TCX"
       },
       "overlay0": {
-        "name": "",
-        "pantone": "",
-        "tcx": ""
+        "name": "Blue Granite",
+        "pantone": "#717388",
+        "tcx": "18-3933 TCX"
       },
       "surface2": {
-        "name": "",
-        "pantone": "",
-        "tcx": ""
+        "name": "Grisaille",
+        "pantone": "#585E6F",
+        "tcx": "18-3912 TCX"
       },
       "surface1": {
-        "name": "",
-        "pantone": "",
-        "tcx": ""
+        "name": "Odyssey Gray",
+        "pantone": "#434452",
+        "tcx": "19-3930 TCX"
       },
       "surface0": {
-        "name": "",
-        "pantone": "",
-        "tcx": ""
+        "name": "Overture",
+        "pantone": "#343646",
+        "tcx": "19-3944 TCX"
       },
       "base": {
-        "name": "",
-        "pantone": "",
-        "tcx": ""
+        "name": "Baritone Blue",
+        "pantone": "#272836",
+        "tcx": "19-3812 TCX"
       },
       "mantle": {
-        "name": "",
-        "pantone": "",
-        "tcx": ""
+        "name": "Baritone Blue",
+        "pantone": "#272836",
+        "tcx": "19-3812 TCX"
       },
       "crust": {
-        "name": "",
-        "pantone": "",
-        "tcx": ""
+        "name": "Black Beauty",
+        "pantone": "#26262A",
+        "tcx": "19-3911 TCX"
       }
     }
   }

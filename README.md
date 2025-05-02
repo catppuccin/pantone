@@ -119,32 +119,32 @@
 
 | Catppuccin Color | Pantone Color | Comparison |
 | --- | --- | --- |
-| Rosewater |  (`` / ``) | ![](./assets/mocha/rosewater-compare.webp) |
-| Flamingo |  (`` / ``) | ![](./assets/mocha/flamingo-compare.webp) |
-| Pink |  (`` / ``) | ![](./assets/mocha/pink-compare.webp) |
-| Mauve |  (`` / ``) | ![](./assets/mocha/mauve-compare.webp) |
-| Red |  (`` / ``) | ![](./assets/mocha/red-compare.webp) |
-| Maroon |  (`` / ``) | ![](./assets/mocha/maroon-compare.webp) |
-| Peach |  (`` / ``) | ![](./assets/mocha/peach-compare.webp) |
-| Yellow |  (`` / ``) | ![](./assets/mocha/yellow-compare.webp) |
-| Green |  (`` / ``) | ![](./assets/mocha/green-compare.webp) |
-| Teal |  (`` / ``) | ![](./assets/mocha/teal-compare.webp) |
-| Sky |  (`` / ``) | ![](./assets/mocha/sky-compare.webp) |
-| Sapphire |  (`` / ``) | ![](./assets/mocha/sapphire-compare.webp) |
-| Blue |  (`` / ``) | ![](./assets/mocha/blue-compare.webp) |
-| Lavender |  (`` / ``) | ![](./assets/mocha/lavender-compare.webp) |
-| Text |  (`` / ``) | ![](./assets/mocha/text-compare.webp) |
-| Subtext 1 |  (`` / ``) | ![](./assets/mocha/subtext1-compare.webp) |
-| Subtext 0 |  (`` / ``) | ![](./assets/mocha/subtext0-compare.webp) |
-| Overlay 2 |  (`` / ``) | ![](./assets/mocha/overlay2-compare.webp) |
-| Overlay 1 |  (`` / ``) | ![](./assets/mocha/overlay1-compare.webp) |
-| Overlay 0 |  (`` / ``) | ![](./assets/mocha/overlay0-compare.webp) |
-| Surface 2 |  (`` / ``) | ![](./assets/mocha/surface2-compare.webp) |
-| Surface 1 |  (`` / ``) | ![](./assets/mocha/surface1-compare.webp) |
-| Surface 0 |  (`` / ``) | ![](./assets/mocha/surface0-compare.webp) |
-| Base |  (`` / ``) | ![](./assets/mocha/base-compare.webp) |
-| Mantle |  (`` / ``) | ![](./assets/mocha/mantle-compare.webp) |
-| Crust |  (`` / ``) | ![](./assets/mocha/crust-compare.webp) |
+| Rosewater | Delicacy (`11-2409 TCX` / `#F5E3E2`) | ![](./assets/mocha/rosewater-compare.webp) |
+| Flamingo | Pink Dogwood (`12-1706 TCX` / `#F7D1D1`) | ![](./assets/mocha/flamingo-compare.webp) |
+| Pink | Pirouette (`14-3205 TCX` / `#EDBEDC`) | ![](./assets/mocha/pink-compare.webp) |
+| Mauve | Mauve Mist (`15-3207 TCX` / `#C49BD4`) | ![](./assets/mocha/mauve-compare.webp) |
+| Red | Thinking Pink (`15-2122 TCX` / `#EE91A9`) | ![](./assets/mocha/red-compare.webp) |
+| Maroon | Peony (`15-1816 TCX` / `#ED9CA8`) | ![](./assets/mocha/maroon-compare.webp) |
+| Peach | Peach Cobbler (`14-1231 TCX` / `#FFB181`) | ![](./assets/mocha/peach-compare.webp) |
+| Yellow | Flan (`11-0619 TCX` / `#F6E3B4`) | ![](./assets/mocha/yellow-compare.webp) |
+| Green | Paradise Green (`13-0220 TCX` / `#B2E79F`) | ![](./assets/mocha/green-compare.webp) |
+| Teal | Beach Glass (`13-5412 TCX` / `#96DFCE`) | ![](./assets/mocha/teal-compare.webp) |
+| Sky | Clear Tides (`14-4714 TCX` / `#84D9E9`) | ![](./assets/mocha/sky-compare.webp) |
+| Sapphire | Splish Splash (`16-4520 TCX` / `#69BBDD`) | ![](./assets/mocha/sapphire-compare.webp) |
+| Blue | Open Air (`15-3922 TCX` / `#94B2DF`) | ![](./assets/mocha/blue-compare.webp) |
+| Lavender | Windsurfer (`15-4031 TCX` / `#A3BBE0`) | ![](./assets/mocha/lavender-compare.webp) |
+| Text | Halogen Blue (`13-3920 TCX` / `#BDC6DC`) | ![](./assets/mocha/text-compare.webp) |
+| Subtext 1 | Xenon Blue (`14-3949 TCX` / `#B7C0D7`) | ![](./assets/mocha/subtext1-compare.webp) |
+| Subtext 0 | Icelandic Blue (`15-3908 TCX` / `#A9ADC2`) | ![](./assets/mocha/subtext0-compare.webp) |
+| Overlay 2 | Eventide (`16-3919 TCX` / `#959EB7`) | ![](./assets/mocha/overlay2-compare.webp) |
+| Overlay 1 | Silver Bullet (`17-3933 TCX` / `#81839A`) | ![](./assets/mocha/overlay1-compare.webp) |
+| Overlay 0 | Blue Granite (`18-3933 TCX` / `#717388`) | ![](./assets/mocha/overlay0-compare.webp) |
+| Surface 2 | Grisaille (`18-3912 TCX` / `#585E6F`) | ![](./assets/mocha/surface2-compare.webp) |
+| Surface 1 | Odyssey Gray (`19-3930 TCX` / `#434452`) | ![](./assets/mocha/surface1-compare.webp) |
+| Surface 0 | Overture (`19-3944 TCX` / `#343646`) | ![](./assets/mocha/surface0-compare.webp) |
+| Base | Baritone Blue (`19-3812 TCX` / `#272836`) | ![](./assets/mocha/base-compare.webp) |
+| Mantle | Baritone Blue (`19-3812 TCX` / `#272836`) | ![](./assets/mocha/mantle-compare.webp) |
+| Crust | Black Beauty (`19-3911 TCX` / `#26262A`) | ![](./assets/mocha/crust-compare.webp) |
 
 </details>
 <!-- AUTOGEN END -->
