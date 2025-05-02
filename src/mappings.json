@@ -1,0 +1,538 @@
+{
+  "latte": {
+    "colors": {
+      "rosewater": {
+        "name": "Canyon Sunset",
+        "pantone": "#E1927A",
+        "tcx": "15-1333 TCX"
+      },
+      "flamingo": {
+        "name": "Lantana",
+        "pantone": "#DA7E7A",
+        "tcx": "16-1624 TCX"
+      },
+      "pink": {
+        "name": "Cyclamen",
+        "pantone": "#D687BA",
+        "tcx": "16-3118 TCX"
+      },
+      "mauve": {
+        "name": "Deep Lavender",
+        "pantone": "#775496",
+        "tcx": "18-3633 TCX"
+      },
+      "red": {
+        "name": "Lollipop",
+        "pantone": "#CC1C3B",
+        "tcx": "18-1764 TCX"
+      },
+      "maroon": {
+        "name": "Cayenne",
+        "pantone": "#E04951",
+        "tcx": "18-1651 TCX"
+      },
+      "peach": {
+        "name": "Orange Tiger",
+        "pantone": "#F96714",
+        "tcx": "16-1358 TCX"
+      },
+      "yellow": {
+        "name": "Autumn Blaze",
+        "pantone": "#D9922E",
+        "tcx": "15-1045 TCX"
+      },
+      "green": {
+        "name": "Classic Green",
+        "pantone": "#39A845",
+        "tcx": "16-6340 TCX"
+      },
+      "teal": {
+        "name": "Viridian Green",
+        "pantone": "#009499",
+        "tcx": "17-5126 TCX"
+      },
+      "sky": {
+        "name": "Swim Cap",
+        "pantone": "#38A4D0",
+        "tcx": "16-4526 TCX"
+      },
+      "sapphire": {
+        "name": "Bluebird",
+        "pantone": "#009DAE",
+        "tcx": "16-4834 TCX"
+      },
+      "blue": {
+        "name": "Palace Blue",
+        "pantone": "#346CB0",
+        "tcx": "18-4043 TCX"
+      },
+      "lavender": {
+        "name": "Cornflower Blue",
+        "pantone": "#7391C8",
+        "tcx": "16-4031 TCX"
+      },
+      "text": {
+        "name": "Crown Blue",
+        "pantone": "#464B65",
+        "tcx": "19-3926 TCX"
+      },
+      "subtext1": {
+        "name": "Heron",
+        "pantone": "#62617E",
+        "tcx": "18-3817 TCX"
+      },
+      "subtext0": {
+        "name": "Blue Granite",
+        "pantone": "#717388",
+        "tcx": "18-3933 TCX"
+      },
+      "overlay2": {
+        "name": "Silver Bullet",
+        "pantone": "#81839A",
+        "tcx": "17-3933 TCX"
+      },
+      "overlay1": {
+        "name": "Lilac Gray",
+        "pantone": "#9896A4",
+        "tcx": "16-3905 TCX"
+      },
+      "overlay0": {
+        "name": "Aleutian",
+        "pantone": "#9A9EB3",
+        "tcx": "15-3912 TCX"
+      },
+      "surface2": {
+        "name": "Icelandic Blue",
+        "pantone": "#A9ADC2",
+        "tcx": "15-3908 TCX"
+      },
+      "surface1": {
+        "name": "Gray Dawn",
+        "pantone": "#BBC1CC",
+        "tcx": "14-4106 TCX"
+      },
+      "surface0": {
+        "name": "Lilac Hint",
+        "pantone": "#D0D0DA",
+        "tcx": "13-4105 TCX"
+      },
+      "base": {
+        "name": "Lucent White",
+        "pantone": "#F4F7FF",
+        "tcx": "11-0700 TCX"
+      },
+      "mantle": {
+        "name": "Brilliant White",
+        "pantone": "#EDF1FE",
+        "tcx": "11-4001 TCX"
+      },
+      "crust": {
+        "name": "Nimbus Cloud",
+        "pantone": "#D5D5D8",
+        "tcx": "13-4108 TCX"
+      }
+    }
+  },
+  "frappe": {
+    "colors": {
+      "rosewater": {
+        "name": "",
+        "pantone": "",
+        "tcx": ""
+      },
+      "flamingo": {
+        "name": "",
+        "pantone": "",
+        "tcx": ""
+      },
+      "pink": {
+        "name": "",
+        "pantone": "",
+        "tcx": ""
+      },
+      "mauve": {
+        "name": "",
+        "pantone": "",
+        "tcx": ""
+      },
+      "red": {
+        "name": "",
+        "pantone": "",
+        "tcx": ""
+      },
+      "maroon": {
+        "name": "",
+        "pantone": "",
+        "tcx": ""
+      },
+      "peach": {
+        "name": "",
+        "pantone": "",
+        "tcx": ""
+      },
+      "yellow": {
+        "name": "",
+        "pantone": "",
+        "tcx": ""
+      },
+      "green": {
+        "name": "",
+        "pantone": "",
+        "tcx": ""
+      },
+      "teal": {
+        "name": "",
+        "pantone": "",
+        "tcx": ""
+      },
+      "sky": {
+        "name": "",
+        "pantone": "",
+        "tcx": ""
+      },
+      "sapphire": {
+        "name": "",
+        "pantone": "",
+        "tcx": ""
+      },
+      "blue": {
+        "name": "",
+        "pantone": "",
+        "tcx": ""
+      },
+      "lavender": {
+        "name": "",
+        "pantone": "",
+        "tcx": ""
+      },
+      "text": {
+        "name": "",
+        "pantone": "",
+        "tcx": ""
+      },
+      "subtext1": {
+        "name": "",
+        "pantone": "",
+        "tcx": ""
+      },
+      "subtext0": {
+        "name": "",
+        "pantone": "",
+        "tcx": ""
+      },
+      "overlay2": {
+        "name": "",
+        "pantone": "",
+        "tcx": ""
+      },
+      "overlay1": {
+        "name": "",
+        "pantone": "",
+        "tcx": ""
+      },
+      "overlay0": {
+        "name": "",
+        "pantone": "",
+        "tcx": ""
+      },
+      "surface2": {
+        "name": "",
+        "pantone": "",
+        "tcx": ""
+      },
+      "surface1": {
+        "name": "",
+        "pantone": "",
+        "tcx": ""
+      },
+      "surface0": {
+        "name": "",
+        "pantone": "",
+        "tcx": ""
+      },
+      "base": {
+        "name": "",
+        "pantone": "",
+        "tcx": ""
+      },
+      "mantle": {
+        "name": "",
+        "pantone": "",
+        "tcx": ""
+      },
+      "crust": {
+        "name": "",
+        "pantone": "",
+        "tcx": ""
+      }
+    }
+  },
+  "macchiato": {
+    "colors": {
+      "rosewater": {
+        "name": "",
+        "pantone": "",
+        "tcx": ""
+      },
+      "flamingo": {
+        "name": "",
+        "pantone": "",
+        "tcx": ""
+      },
+      "pink": {
+        "name": "",
+        "pantone": "",
+        "tcx": ""
+      },
+      "mauve": {
+        "name": "",
+        "pantone": "",
+        "tcx": ""
+      },
+      "red": {
+        "name": "",
+        "pantone": "",
+        "tcx": ""
+      },
+      "maroon": {
+        "name": "",
+        "pantone": "",
+        "tcx": ""
+      },
+      "peach": {
+        "name": "",
+        "pantone": "",
+        "tcx": ""
+      },
+      "yellow": {
+        "name": "",
+        "pantone": "",
+        "tcx": ""
+      },
+      "green": {
+        "name": "",
+        "pantone": "",
+        "tcx": ""
+      },
+      "teal": {
+        "name": "",
+        "pantone": "",
+        "tcx": ""
+      },
+      "sky": {
+        "name": "",
+        "pantone": "",
+        "tcx": ""
+      },
+      "sapphire": {
+        "name": "",
+        "pantone": "",
+        "tcx": ""
+      },
+      "blue": {
+        "name": "",
+        "pantone": "",
+        "tcx": ""
+      },
+      "lavender": {
+        "name": "",
+        "pantone": "",
+        "tcx": ""
+      },
+      "text": {
+        "name": "",
+        "pantone": "",
+        "tcx": ""
+      },
+      "subtext1": {
+        "name": "",
+        "pantone": "",
+        "tcx": ""
+      },
+      "subtext0": {
+        "name": "",
+        "pantone": "",
+        "tcx": ""
+      },
+      "overlay2": {
+        "name": "",
+        "pantone": "",
+        "tcx": ""
+      },
+      "overlay1": {
+        "name": "",
+        "pantone": "",
+        "tcx": ""
+      },
+      "overlay0": {
+        "name": "",
+        "pantone": "",
+        "tcx": ""
+      },
+      "surface2": {
+        "name": "",
+        "pantone": "",
+        "tcx": ""
+      },
+      "surface1": {
+        "name": "",
+        "pantone": "",
+        "tcx": ""
+      },
+      "surface0": {
+        "name": "",
+        "pantone": "",
+        "tcx": ""
+      },
+      "base": {
+        "name": "",
+        "pantone": "",
+        "tcx": ""
+      },
+      "mantle": {
+        "name": "",
+        "pantone": "",
+        "tcx": ""
+      },
+      "crust": {
+        "name": "",
+        "pantone": "",
+        "tcx": ""
+      }
+    }
+  },
+  "mocha": {
+    "colors": {
+      "rosewater": {
+        "name": "",
+        "pantone": "",
+        "tcx": ""
+      },
+      "flamingo": {
+        "name": "",
+        "pantone": "",
+        "tcx": ""
+      },
+      "pink": {
+        "name": "",
+        "pantone": "",
+        "tcx": ""
+      },
+      "mauve": {
+        "name": "",
+        "pantone": "",
+        "tcx": ""
+      },
+      "red": {
+        "name": "",
+        "pantone": "",
+        "tcx": ""
+      },
+      "maroon": {
+        "name": "",
+        "pantone": "",
+        "tcx": ""
+      },
+      "peach": {
+        "name": "",
+        "pantone": "",
+        "tcx": ""
+      },
+      "yellow": {
+        "name": "",
+        "pantone": "",
+        "tcx": ""
+      },
+      "green": {
+        "name": "",
+        "pantone": "",
+        "tcx": ""
+      },
+      "teal": {
+        "name": "",
+        "pantone": "",
+        "tcx": ""
+      },
+      "sky": {
+        "name": "",
+        "pantone": "",
+        "tcx": ""
+      },
+      "sapphire": {
+        "name": "",
+        "pantone": "",
+        "tcx": ""
+      },
+      "blue": {
+        "name": "",
+        "pantone": "",
+        "tcx": ""
+      },
+      "lavender": {
+        "name": "",
+        "pantone": "",
+        "tcx": ""
+      },
+      "text": {
+        "name": "",
+        "pantone": "",
+        "tcx": ""
+      },
+      "subtext1": {
+        "name": "",
+        "pantone": "",
+        "tcx": ""
+      },
+      "subtext0": {
+        "name": "",
+        "pantone": "",
+        "tcx": ""
+      },
+      "overlay2": {
+        "name": "",
+        "pantone": "",
+        "tcx": ""
+      },
+      "overlay1": {
+        "name": "",
+        "pantone": "",
+        "tcx": ""
+      },
+      "overlay0": {
+        "name": "",
+        "pantone": "",
+        "tcx": ""
+      },
+      "surface2": {
+        "name": "",
+        "pantone": "",
+        "tcx": ""
+      },
+      "surface1": {
+        "name": "",
+        "pantone": "",
+        "tcx": ""
+      },
+      "surface0": {
+        "name": "",
+        "pantone": "",
+        "tcx": ""
+      },
+      "base": {
+        "name": "",
+        "pantone": "",
+        "tcx": ""
+      },
+      "mantle": {
+        "name": "",
+        "pantone": "",
+        "tcx": ""
+      },
+      "crust": {
+        "name": "",
+        "pantone": "",
+        "tcx": ""
+      }
+    }
+  }
+}

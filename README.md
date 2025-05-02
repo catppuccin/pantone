@@ -11,149 +11,140 @@
 	<a href="https://github.com/catppuccin/pantone/contributors"><img src="https://img.shields.io/github/contributors/catppuccin/pantone?colorA=363a4f&colorB=a6da95&style=for-the-badge"></a>
 </p>
 
-
-## ℹ️ Information
-Pantone is a color standard made for real world colors. Pantone has (undisclosed) info for each color like how much of each color paint goes into each color. This basically brings digital colors to the real world.
-
 ## 🌈 Colors
 
 <details>
-	<summary>🌻 latte</summary>
+<summary>🌻Latte</summary>
 
-| Comparison (pantone on the right)                                                                  | Catppuccin Color Name | Pantone Code | Pantone Color Name |
-| -------------------------------------------------------------------------------------------------- | --------------------- | ------------ | ------------------ |
-| ![ ](https://raw.githubusercontent.com/catppuccin/pantone/main/assets/latte-rosewater-compare.png) | rosewater             | `15-1333`    | canyon-sunset      |
-| ![ ](https://raw.githubusercontent.com/catppuccin/pantone/main/assets/latte-flamingo-compare.png)  | flamingo              | `16-1624`    | lantana            |
-| ![ ](https://raw.githubusercontent.com/catppuccin/pantone/main/assets/latte-pink-compare.png)      | pink                  | `16-3118`    | cyclamen           |
-| ![ ](https://raw.githubusercontent.com/catppuccin/pantone/main/assets/latte-mauve-compare.png)     | mauve                 | `18-3633`    | deep-lavender      |
-| ![ ](https://raw.githubusercontent.com/catppuccin/pantone/main/assets/latte-red-compare.png)       | red                   | `18-1764`    | lollipop           |
-| ![ ](https://raw.githubusercontent.com/catppuccin/pantone/main/assets/latte-maroon-compare.png)    | maroon                | `18-1651`    | cayenne            |
-| ![ ](https://raw.githubusercontent.com/catppuccin/pantone/main/assets/latte-peach-compare.png)     | peach                 | `16-1358`    | orange-tiger       |
-| ![ ](https://raw.githubusercontent.com/catppuccin/pantone/main/assets/latte-yellow-compare.png)    | yellow                | `15-1045`    | autumn-blaze       |
-| ![ ](https://raw.githubusercontent.com/catppuccin/pantone/main/assets/latte-green-compare.png)     | green                 | `16-6340`    | classic-green      |
-| ![ ](https://raw.githubusercontent.com/catppuccin/pantone/main/assets/latte-teal-compare.png)      | teal                  | `17-4928`    | lake-blue          |
-| ![ ](https://raw.githubusercontent.com/catppuccin/pantone/main/assets/latte-sky-compare.png)       | sky                   | `16-4134`    | bonnie-blue        |
-| ![ ](https://raw.githubusercontent.com/catppuccin/pantone/main/assets/latte-sapphire-compare.png)  | sapphire              | `16-4834`    | bluebird           |
-| ![ ](https://raw.githubusercontent.com/catppuccin/pantone/main/assets/latte-blue-compare.png)      | blue                  | `18-4043`    | palace-blue        |
-| ![ ](https://raw.githubusercontent.com/catppuccin/pantone/main/assets/latte-lavender-compare.png)  | lavender              | `16-4031`    | cornflower-blue    |
-| ![ ](https://raw.githubusercontent.com/catppuccin/pantone/main/assets/latte-text-compare.png)      | text                  | `19-3926`    | crown-blue         |
-| ![ ](https://raw.githubusercontent.com/catppuccin/pantone/main/assets/latte-subtext1-compare.png)  | subtext1              | `18-3817`    | heron              |
-| ![ ](https://raw.githubusercontent.com/catppuccin/pantone/main/assets/latte-subtext0-compare.png)  | subtext0              | `18-3933`    | blue-granite       |
-| ![ ](https://raw.githubusercontent.com/catppuccin/pantone/main/assets/latte-overlay2-compare.png)  | overlay2              | `17-3933`    | silver-bullet      |
-| ![ ](https://raw.githubusercontent.com/catppuccin/pantone/main/assets/latte-overlay1-compare.png)  | overlay1              | `16-3905`    | lilac-gray         |
-| ![ ](https://raw.githubusercontent.com/catppuccin/pantone/main/assets/latte-overlay0-compare.png)  | overlay0              | `15-3912`    | aleutian           |
-| ![ ](https://raw.githubusercontent.com/catppuccin/pantone/main/assets/latte-surface2-compare.png)  | surface2              | `15-3908`    | icelandic-blue     |
-| ![ ](https://raw.githubusercontent.com/catppuccin/pantone/main/assets/latte-surface1-compare.png)  | surface1              | `14-4106`    | gray-dawn          |
-| ![ ](https://raw.githubusercontent.com/catppuccin/pantone/main/assets/latte-surface0-compare.png)  | surface0              | `13-4105`    | lilac-hint         |
-| ![ ](https://raw.githubusercontent.com/catppuccin/pantone/main/assets/latte-mantle-compare.png)    | mantle                | `11-4001`    | brilliant-white    |
-| ![ ](https://raw.githubusercontent.com/catppuccin/pantone/main/assets/latte-base-compare.png)      | base                  | `11-4800`    | blanc-de-blanc     |
-| ![ ](https://raw.githubusercontent.com/catppuccin/pantone/main/assets/latte-crust-compare.png)     | crust                 | `13-4108`    | nimbus-cloud       |
+| Catppuccin Color | Pantone Color                               | Comparision                                |
+| ---------------- | ------------------------------------------- | ------------------------------------------ |
+| Rosewater        | Canyon Sunset (`15-1333 TCX` / `#E1927A`)   | ![](./assets/latte/rosewater-compare.webp) |
+| Flamingo         | Lantana (`16-1624 TCX` / `#DA7E7A`)         | ![](./assets/latte/flamingo-compare.webp)  |
+| Pink             | Cyclamen (`16-3118 TCX` / `#D687BA`)        | ![](./assets/latte/pink-compare.webp)      |
+| Mauve            | Deep Lavender (`18-3633 TCX` / `#775496`)   | ![](./assets/latte/mauve-compare.webp)     |
+| Red              | Lollipop (`18-1764 TCX` / `#CC1C3B`)        | ![](./assets/latte/red-compare.webp)       |
+| Maroon           | Cayenne (`18-1651 TCX` / `#E04951`)         | ![](./assets/latte/maroon-compare.webp)    |
+| Peach            | Orange Tiger (`16-1358 TCX` / `#F96714`)    | ![](./assets/latte/peach-compare.webp)     |
+| Yellow           | Autumn Blaze (`15-1045 TCX` / `#D9922E`)    | ![](./assets/latte/yellow-compare.webp)    |
+| Green            | Classic Green (`16-6340 TCX` / `#39A845`)   | ![](./assets/latte/green-compare.webp)     |
+| Teal             | Viridian Green (`17-5126 TCX` / `#009499`)  | ![](./assets/latte/teal-compare.webp)      |
+| Sky              | Swim Cap (`16-4526 TCX` / `#38A4D0`)        | ![](./assets/latte/sky-compare.webp)       |
+| Sapphire         | Bluebird (`16-4834 TCX` / `#009DAE`)        | ![](./assets/latte/sapphire-compare.webp)  |
+| Blue             | Palace Blue (`18-4043 TCX` / `#346CB0`)     | ![](./assets/latte/blue-compare.webp)      |
+| Lavender         | Cornflower Blue (`16-4031 TCX` / `#7391C8`) | ![](./assets/latte/lavender-compare.webp)  |
+| Text             | Crown Blue (`19-3926 TCX` / `#464B65`)      | ![](./assets/latte/text-compare.webp)      |
+| Subtext 1        | Heron (`18-3817 TCX` / `#62617E`)           | ![](./assets/latte/subtext1-compare.webp)  |
+| Subtext 0        | Blue Granite (`18-3933 TCX` / `#717388`)    | ![](./assets/latte/subtext0-compare.webp)  |
+| Overlay 2        | Silver Bullet (`17-3933 TCX` / `#81839A`)   | ![](./assets/latte/overlay2-compare.webp)  |
+| Overlay 1        | Lilac Gray (`16-3905 TCX` / `#9896A4`)      | ![](./assets/latte/overlay1-compare.webp)  |
+| Overlay 0        | Aleutian (`15-3912 TCX` / `#9A9EB3`)        | ![](./assets/latte/overlay0-compare.webp)  |
+| Surface 2        | Icelandic Blue (`15-3908 TCX` / `#A9ADC2`)  | ![](./assets/latte/surface2-compare.webp)  |
+| Surface 1        | Gray Dawn (`14-4106 TCX` / `#BBC1CC`)       | ![](./assets/latte/surface1-compare.webp)  |
+| Surface 0        | Lilac Hint (`13-4105 TCX` / `#D0D0DA`)      | ![](./assets/latte/surface0-compare.webp)  |
+| Base             | Lucent White (`11-0700 TCX` / `#F4F7FF`)    | ![](./assets/latte/base-compare.webp)      |
+| Mantle           | Brilliant White (`11-4001 TCX` / `#EDF1FE`) | ![](./assets/latte/mantle-compare.webp)    |
+| Crust            | Nimbus Cloud (`13-4108 TCX` / `#D5D5D8`)    | ![](./assets/latte/crust-compare.webp)     |
+
 </details>
-
 <details>
-	<summary>🪴 frappe</summary>
+<summary>🪴Frappé</summary>
 
-| Comparison (pantone on the right)| Catppuccin Color Name | Pantone Code | Pantone Color Name |
-| --------------------------------------------------------------------------------------------------- | --------------------- | ------------ | ------------------ |
-| ![ ](https://raw.githubusercontent.com/catppuccin/pantone/main/assets/frappe-rosewater-compare.png) | rosewater             | `13-1407`    | creole-pink        |
-| ![ ](https://raw.githubusercontent.com/catppuccin/pantone/main/assets/frappe-flamingo-compare.png)  | flamingo              | `13-2005`    | strawberry-cream   |
-| ![ ](https://raw.githubusercontent.com/catppuccin/pantone/main/assets/frappe-pink-compare.png)      | pink                  | `14-2710`    | lilac-sachet       |
-| ![ ](https://raw.githubusercontent.com/catppuccin/pantone/main/assets/frappe-mauve-compare.png)     | mauve                 | `15-3207`    | mauve-mist         |
-| ![ ](https://raw.githubusercontent.com/catppuccin/pantone/main/assets/frappe-red-compare.png)       | red                   | `16-1626`    | peach-blossom      |
-| ![ ](https://raw.githubusercontent.com/catppuccin/pantone/main/assets/frappe-maroon-compare.png)    | maroon                | `15-1717`    | pink-icing         |
-| ![ ](https://raw.githubusercontent.com/catppuccin/pantone/main/assets/frappe-peach-compare.png)     | peach                 | `14-1139`    | pumpkin            |
-| ![ ](https://raw.githubusercontent.com/catppuccin/pantone/main/assets/frappe-yellow-compare.png)    | yellow                | `13-0922`    | straw              |
-| ![ ](https://raw.githubusercontent.com/catppuccin/pantone/main/assets/frappe-green-compare.png)     | green                 | `14-0232`    | jade-lime          |
-| ![ ](https://raw.githubusercontent.com/catppuccin/pantone/main/assets/frappe-teal-compare.png)      | teal                  | `14-5413`    | holiday            |
-| ![ ](https://raw.githubusercontent.com/catppuccin/pantone/main/assets/frappe-sky-compare.png)       | sky                   | `13-4809`    | plume              |
-| ![ ](https://raw.githubusercontent.com/catppuccin/pantone/main/assets/frappe-sapphire-compare.png)  | sapphire              | `14-4318`    | sky-blue           |
-| ![ ](https://raw.githubusercontent.com/catppuccin/pantone/main/assets/frappe-blue-compare.png)      | blue                  | `15-3930`    | vista-blue         |
-| ![ ](https://raw.githubusercontent.com/catppuccin/pantone/main/assets/frappe-lavender-compare.png)  | lavender              | `14-3911`    | purple-heather     |
-| ![ ](https://raw.githubusercontent.com/catppuccin/pantone/main/assets/frappe-text-compare.png)      | text                  | `13-3920`    | halogen-blue       |
-| ![ ](https://raw.githubusercontent.com/catppuccin/pantone/main/assets/frappe-subtext1-compare.png)  | subtext1              | `14-3949`    | xenon-blue         |
-| ![ ](https://raw.githubusercontent.com/catppuccin/pantone/main/assets/frappe-subtext0-compare.png)  | subtext0              | `16-3922`    | brunnera-blue      |
-| ![ ](https://raw.githubusercontent.com/catppuccin/pantone/main/assets/frappe-overlay2-compare.png)  | overlay2              | `16-3930`    | thistle-down       |
-| ![ ](https://raw.githubusercontent.com/catppuccin/pantone/main/assets/frappe-overlay1-compare.png)  | overlay1              | `17-3919`    | purple-impression  |
-| ![ ](https://raw.githubusercontent.com/catppuccin/pantone/main/assets/frappe-overlay0-compare.png)  | overlay0              | `17-3922`    | blue-ice           |
-| ![ ](https://raw.githubusercontent.com/catppuccin/pantone/main/assets/frappe-surface2-compare.png)  | surface2              | `18-3910`    | folkstone-gray     |
-| ![ ](https://raw.githubusercontent.com/catppuccin/pantone/main/assets/frappe-surface1-compare.png)  | surface1              | `19-3919`    | nightshadow-blue   |
-| ![ ](https://raw.githubusercontent.com/catppuccin/pantone/main/assets/frappe-surface0-compare.png)  | surface0              | `19-3930`    | odyssey-gray       |
-| ![ ](https://raw.githubusercontent.com/catppuccin/pantone/main/assets/frappe-base-compare.png)      | base                  | `19-3921`    | black-iris         |
-| ![ ](https://raw.githubusercontent.com/catppuccin/pantone/main/assets/frappe-mantle-compare.png)    | mantle                | `19-3923`    | navy-blazer        |
-| ![ ](https://raw.githubusercontent.com/catppuccin/pantone/main/assets/frappe-crust-compare.png)     | crust                 | `19-3922`    | sky-captain        |
+| Catppuccin Color | Pantone Color | Comparision                                 |
+| ---------------- | ------------- | ------------------------------------------- |
+| Rosewater        | (`/`)         | ![](./assets/frappe/rosewater-compare.webp) |
+| Flamingo         | (`/`)         | ![](./assets/frappe/flamingo-compare.webp)  |
+| Pink             | (`/`)         | ![](./assets/frappe/pink-compare.webp)      |
+| Mauve            | (`/`)         | ![](./assets/frappe/mauve-compare.webp)     |
+| Red              | (`/`)         | ![](./assets/frappe/red-compare.webp)       |
+| Maroon           | (`/`)         | ![](./assets/frappe/maroon-compare.webp)    |
+| Peach            | (`/`)         | ![](./assets/frappe/peach-compare.webp)     |
+| Yellow           | (`/`)         | ![](./assets/frappe/yellow-compare.webp)    |
+| Green            | (`/`)         | ![](./assets/frappe/green-compare.webp)     |
+| Teal             | (`/`)         | ![](./assets/frappe/teal-compare.webp)      |
+| Sky              | (`/`)         | ![](./assets/frappe/sky-compare.webp)       |
+| Sapphire         | (`/`)         | ![](./assets/frappe/sapphire-compare.webp)  |
+| Blue             | (`/`)         | ![](./assets/frappe/blue-compare.webp)      |
+| Lavender         | (`/`)         | ![](./assets/frappe/lavender-compare.webp)  |
+| Text             | (`/`)         | ![](./assets/frappe/text-compare.webp)      |
+| Subtext 1        | (`/`)         | ![](./assets/frappe/subtext1-compare.webp)  |
+| Subtext 0        | (`/`)         | ![](./assets/frappe/subtext0-compare.webp)  |
+| Overlay 2        | (`/`)         | ![](./assets/frappe/overlay2-compare.webp)  |
+| Overlay 1        | (`/`)         | ![](./assets/frappe/overlay1-compare.webp)  |
+| Overlay 0        | (`/`)         | ![](./assets/frappe/overlay0-compare.webp)  |
+| Surface 2        | (`/`)         | ![](./assets/frappe/surface2-compare.webp)  |
+| Surface 1        | (`/`)         | ![](./assets/frappe/surface1-compare.webp)  |
+| Surface 0        | (`/`)         | ![](./assets/frappe/surface0-compare.webp)  |
+| Base             | (`/`)         | ![](./assets/frappe/base-compare.webp)      |
+| Mantle           | (`/`)         | ![](./assets/frappe/mantle-compare.webp)    |
+| Crust            | (`/`)         | ![](./assets/frappe/crust-compare.webp)     |
+
 </details>
-
 <details>
-	<summary>🌺 macchiato</summary>
+<summary>🌺Macchiato</summary>
 
-| Comparison (pantone on the right)| Catppuccin Color Name | Pantone Code | Pantone Color Name |
-| ------------------------------------------------------------------------------------------------------ | --------------------- | ------------ | ------------------ |
-| ![ ](https://raw.githubusercontent.com/catppuccin/pantone/main/assets/macchiato-rosewater-compare.png) | rosewater             | `11-1408`    | rosewater          |
-| ![ ](https://raw.githubusercontent.com/catppuccin/pantone/main/assets/macchiato-flamingo-compare.png)  | flamingo              | `13-1520`    | rose-quartz        |
-| ![ ](https://raw.githubusercontent.com/catppuccin/pantone/main/assets/macchiato-pink-compare.png)      | pink                  | `14-2808`    | sweet-lilac        |
-| ![ ](https://raw.githubusercontent.com/catppuccin/pantone/main/assets/macchiato-mauve-compare.png)     | mauve                 | `15-3207`    | mauve-mist         |
-| ![ ](https://raw.githubusercontent.com/catppuccin/pantone/main/assets/macchiato-red-compare.png)       | red                   | `15-1922`    | geranium-pink      |
-| ![ ](https://raw.githubusercontent.com/catppuccin/pantone/main/assets/macchiato-maroon-compare.png)    | maroon                | `15-1717`    | pink-icing         |
-| ![ ](https://raw.githubusercontent.com/catppuccin/pantone/main/assets/macchiato-peach-compare.png)     | peach                 | `14-1241`    | orange-chiffon     |
-| ![ ](https://raw.githubusercontent.com/catppuccin/pantone/main/assets/macchiato-yellow-compare.png)    | yellow                | `13-0822`    | sunlight           |
-| ![ ](https://raw.githubusercontent.com/catppuccin/pantone/main/assets/macchiato-green-compare.png)     | green                 | `13-0220`    | paradise-green     |
-| ![ ](https://raw.githubusercontent.com/catppuccin/pantone/main/assets/macchiato-teal-compare.png)      | teal                  | `13-5313`    | aruba-blue         |
-| ![ ](https://raw.githubusercontent.com/catppuccin/pantone/main/assets/macchiato-sky-compare.png)       | sky                   | `13-4720`    | tanager-turquoise  |
-| ![ ](https://raw.githubusercontent.com/catppuccin/pantone/main/assets/macchiato-sapphire-compare.png)  | sapphire              | `14-4310`    | blue-topaz         |
-| ![ ](https://raw.githubusercontent.com/catppuccin/pantone/main/assets/macchiato-blue-compare.png)      | blue                  | `15-3920`    | placid-blue        |
-| ![ ](https://raw.githubusercontent.com/catppuccin/pantone/main/assets/macchiato-lavender-compare.png)  | lavender              | `15-4030`    | chambray-blue      |
-| ![ ](https://raw.githubusercontent.com/catppuccin/pantone/main/assets/macchiato-text-compare.png)      | text                  | `13-3920`    | halogen-blue       |
-| ![ ](https://raw.githubusercontent.com/catppuccin/pantone/main/assets/macchiato-subtext1-compare.png)  | subtext1              | `14-3949`    | xenon-blue         |
-| ![ ](https://raw.githubusercontent.com/catppuccin/pantone/main/assets/macchiato-subtext0-compare.png)  | subtext0              | `16-3922`    | brunnera-blue      |
-| ![ ](https://raw.githubusercontent.com/catppuccin/pantone/main/assets/macchiato-overlay2-compare.png)  | overlay2              | `16-3930`    | thistle-down       |
-| ![ ](https://raw.githubusercontent.com/catppuccin/pantone/main/assets/macchiato-overlay1-compare.png)  | overlay1              | `17-3933`    | silver-bullet      |
-| ![ ](https://raw.githubusercontent.com/catppuccin/pantone/main/assets/macchiato-overlay0-compare.png)  | overlay0              | `18-3933`    | blue-granite       |
-| ![ ](https://raw.githubusercontent.com/catppuccin/pantone/main/assets/macchiato-surface2-compare.png)  | surface2              | `18-3912`    | grisaille          |
-| ![ ](https://raw.githubusercontent.com/catppuccin/pantone/main/assets/macchiato-surface1-compare.png)  | surface1              | `19-3926`    | crown-blue         |
-| ![ ](https://raw.githubusercontent.com/catppuccin/pantone/main/assets/macchiato-surface0-compare.png)  | surface0              | `19-4025`    | mood-indigo        |
-| ![ ](https://raw.githubusercontent.com/catppuccin/pantone/main/assets/macchiato-base-compare.png)      | base                  | `19-3831`    | maritime-blue      |
-| ![ ](https://raw.githubusercontent.com/catppuccin/pantone/main/assets/macchiato-mantle-compare.png)    | mantle                | `19-3831`    | maritime-blue      |
-| ![ ](https://raw.githubusercontent.com/catppuccin/pantone/main/assets/macchiato-crust-compare.png)     | crust                 | `19-3922`    | sky-captain        |
+| Catppuccin Color | Pantone Color | Comparision                                    |
+| ---------------- | ------------- | ---------------------------------------------- |
+| Rosewater        | (`/`)         | ![](./assets/macchiato/rosewater-compare.webp) |
+| Flamingo         | (`/`)         | ![](./assets/macchiato/flamingo-compare.webp)  |
+| Pink             | (`/`)         | ![](./assets/macchiato/pink-compare.webp)      |
+| Mauve            | (`/`)         | ![](./assets/macchiato/mauve-compare.webp)     |
+| Red              | (`/`)         | ![](./assets/macchiato/red-compare.webp)       |
+| Maroon           | (`/`)         | ![](./assets/macchiato/maroon-compare.webp)    |
+| Peach            | (`/`)         | ![](./assets/macchiato/peach-compare.webp)     |
+| Yellow           | (`/`)         | ![](./assets/macchiato/yellow-compare.webp)    |
+| Green            | (`/`)         | ![](./assets/macchiato/green-compare.webp)     |
+| Teal             | (`/`)         | ![](./assets/macchiato/teal-compare.webp)      |
+| Sky              | (`/`)         | ![](./assets/macchiato/sky-compare.webp)       |
+| Sapphire         | (`/`)         | ![](./assets/macchiato/sapphire-compare.webp)  |
+| Blue             | (`/`)         | ![](./assets/macchiato/blue-compare.webp)      |
+| Lavender         | (`/`)         | ![](./assets/macchiato/lavender-compare.webp)  |
+| Text             | (`/`)         | ![](./assets/macchiato/text-compare.webp)      |
+| Subtext 1        | (`/`)         | ![](./assets/macchiato/subtext1-compare.webp)  |
+| Subtext 0        | (`/`)         | ![](./assets/macchiato/subtext0-compare.webp)  |
+| Overlay 2        | (`/`)         | ![](./assets/macchiato/overlay2-compare.webp)  |
+| Overlay 1        | (`/`)         | ![](./assets/macchiato/overlay1-compare.webp)  |
+| Overlay 0        | (`/`)         | ![](./assets/macchiato/overlay0-compare.webp)  |
+| Surface 2        | (`/`)         | ![](./assets/macchiato/surface2-compare.webp)  |
+| Surface 1        | (`/`)         | ![](./assets/macchiato/surface1-compare.webp)  |
+| Surface 0        | (`/`)         | ![](./assets/macchiato/surface0-compare.webp)  |
+| Base             | (`/`)         | ![](./assets/macchiato/base-compare.webp)      |
+| Mantle           | (`/`)         | ![](./assets/macchiato/mantle-compare.webp)    |
+| Crust            | (`/`)         | ![](./assets/macchiato/crust-compare.webp)     |
+
 </details>
-
 <details>
-	<summary>🌿 mocha</summary>
+<summary>🌿Mocha</summary>
 
-| Comparison (pantone on the right)| Catppuccin Color Name | Pantone Code | Pantone Color Name |
-| -------------------------------------------------------------------------------------------------- | --------------------- | ------------ | ------------------ |
-| ![ ](https://raw.githubusercontent.com/catppuccin/pantone/main/assets/mocha-rosewater-compare.png) | rosewater             | `11-2409`    | delicacy           |
-| ![ ](https://raw.githubusercontent.com/catppuccin/pantone/main/assets/mocha-flamingo-compare.png)  | flamingo              | `12-1706`    | pink-dogwood       |
-| ![ ](https://raw.githubusercontent.com/catppuccin/pantone/main/assets/mocha-pink-compare.png)      | pink                  | `13-2806`    | pink-lady          |
-| ![ ](https://raw.githubusercontent.com/catppuccin/pantone/main/assets/mocha-mauve-compare.png)     | mauve                 | `15-3207`    | mauve-mist         |
-| ![ ](https://raw.githubusercontent.com/catppuccin/pantone/main/assets/mocha-red-compare.png)       | red                   | `15-2216`    | sachet-pink        |
-| ![ ](https://raw.githubusercontent.com/catppuccin/pantone/main/assets/mocha-maroon-compare.png)    | maroon                | `15-1816`    | peony              |
-| ![ ](https://raw.githubusercontent.com/catppuccin/pantone/main/assets/mocha-peach-compare.png)     | peach                 | `14-1231`    | peach-cobbler      |
-| ![ ](https://raw.githubusercontent.com/catppuccin/pantone/main/assets/mocha-yellow-compare.png)    | yellow                | `11-0619`    | flan               |
-| ![ ](https://raw.githubusercontent.com/catppuccin/pantone/main/assets/mocha-green-compare.png)     | green                 | `13-0220`    | paradise-green     |
-| ![ ](https://raw.githubusercontent.com/catppuccin/pantone/main/assets/mocha-teal-compare.png)      | teal                  | `13-5412`    | beach-glass        |
-| ![ ](https://raw.githubusercontent.com/catppuccin/pantone/main/assets/mocha-sky-compare.png)       | sky                   | `13-4720`    | tanager-turquoise  |
-| ![ ](https://raw.githubusercontent.com/catppuccin/pantone/main/assets/mocha-sapphire-compare.png)  | sapphire              | `14-4310`    | blue-topaz         |
-| ![ ](https://raw.githubusercontent.com/catppuccin/pantone/main/assets/mocha-blue-compare.png)      | blue                  | `15-3920`    | placid-blue        |
-| ![ ](https://raw.githubusercontent.com/catppuccin/pantone/main/assets/mocha-lavender-compare.png)  | lavender              | `15-4030`    | chambray-blue      |
-| ![ ](https://raw.githubusercontent.com/catppuccin/pantone/main/assets/mocha-text-compare.png)      | text                  | `13-3920`    | halogen-blue       |
-| ![ ](https://raw.githubusercontent.com/catppuccin/pantone/main/assets/mocha-subtext1-compare.png)  | subtext1              | `14-3949`    | xenon-blue         |
-| ![ ](https://raw.githubusercontent.com/catppuccin/pantone/main/assets/mocha-subtext0-compare.png)  | subtext0              | `15-3908`    | icelandic-blue     |
-| ![ ](https://raw.githubusercontent.com/catppuccin/pantone/main/assets/mocha-overlay2-compare.png)  | overlay2              | `16-3919`    | eventide           |
-| ![ ](https://raw.githubusercontent.com/catppuccin/pantone/main/assets/mocha-overlay1-compare.png)  | overlay1              | `17-3933`    | silver-bullet      |
-| ![ ](https://raw.githubusercontent.com/catppuccin/pantone/main/assets/mocha-overlay0-compare.png)  | overlay0              | `18-3933`    | blue-granite       |
-| ![ ](https://raw.githubusercontent.com/catppuccin/pantone/main/assets/mocha-surface2-compare.png)  | surface2              | `18-3912`    | grisaille          |
-| ![ ](https://raw.githubusercontent.com/catppuccin/pantone/main/assets/mocha-surface1-compare.png)  | surface1              | `19-3930`    | odyssey-gray       |
-| ![ ](https://raw.githubusercontent.com/catppuccin/pantone/main/assets/mocha-surface0-compare.png)  | surface0              | `19-3920`    | peacoat            |
-| ![ ](https://raw.githubusercontent.com/catppuccin/pantone/main/assets/mocha-base-compare.png)      | base                  | `19-3831`    | maritime-blue      |
-| ![ ](https://raw.githubusercontent.com/catppuccin/pantone/main/assets/mocha-mantle-compare.png)    | mantle                | `19-3924`    | night-sky          |
-| ![ ](https://raw.githubusercontent.com/catppuccin/pantone/main/assets/mocha-crust-compare.png)     | crust                 | `?-7547`     | mirage             |
+| Catppuccin Color | Pantone Color | Comparision                                |
+| ---------------- | ------------- | ------------------------------------------ |
+| Rosewater        | (`/`)         | ![](./assets/mocha/rosewater-compare.webp) |
+| Flamingo         | (`/`)         | ![](./assets/mocha/flamingo-compare.webp)  |
+| Pink             | (`/`)         | ![](./assets/mocha/pink-compare.webp)      |
+| Mauve            | (`/`)         | ![](./assets/mocha/mauve-compare.webp)     |
+| Red              | (`/`)         | ![](./assets/mocha/red-compare.webp)       |
+| Maroon           | (`/`)         | ![](./assets/mocha/maroon-compare.webp)    |
+| Peach            | (`/`)         | ![](./assets/mocha/peach-compare.webp)     |
+| Yellow           | (`/`)         | ![](./assets/mocha/yellow-compare.webp)    |
+| Green            | (`/`)         | ![](./assets/mocha/green-compare.webp)     |
+| Teal             | (`/`)         | ![](./assets/mocha/teal-compare.webp)      |
+| Sky              | (`/`)         | ![](./assets/mocha/sky-compare.webp)       |
+| Sapphire         | (`/`)         | ![](./assets/mocha/sapphire-compare.webp)  |
+| Blue             | (`/`)         | ![](./assets/mocha/blue-compare.webp)      |
+| Lavender         | (`/`)         | ![](./assets/mocha/lavender-compare.webp)  |
+| Text             | (`/`)         | ![](./assets/mocha/text-compare.webp)      |
+| Subtext 1        | (`/`)         | ![](./assets/mocha/subtext1-compare.webp)  |
+| Subtext 0        | (`/`)         | ![](./assets/mocha/subtext0-compare.webp)  |
+| Overlay 2        | (`/`)         | ![](./assets/mocha/overlay2-compare.webp)  |
+| Overlay 1        | (`/`)         | ![](./assets/mocha/overlay1-compare.webp)  |
+| Overlay 0        | (`/`)         | ![](./assets/mocha/overlay0-compare.webp)  |
+| Surface 2        | (`/`)         | ![](./assets/mocha/surface2-compare.webp)  |
+| Surface 1        | (`/`)         | ![](./assets/mocha/surface1-compare.webp)  |
+| Surface 0        | (`/`)         | ![](./assets/mocha/surface0-compare.webp)  |
+| Base             | (`/`)         | ![](./assets/mocha/base-compare.webp)      |
+| Mantle           | (`/`)         | ![](./assets/mocha/mantle-compare.webp)    |
+| Crust            | (`/`)         | ![](./assets/mocha/crust-compare.webp)     |
+
 </details>
-
-## ⚙️ Usage
-
-1. Clone this repository
-2. `cd` into the src directory
-3. run `node main.js` to get a markdown collabsible table list of all of the pantone colors.
 
 ## 💖 Thanks to
 
