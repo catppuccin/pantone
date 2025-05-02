@@ -86,32 +86,32 @@
 
 | Catppuccin Color | Pantone Color | Comparison |
 | --- | --- | --- |
-| Rosewater |  (`` / ``) | ![](./assets/macchiato/rosewater-compare.webp) |
-| Flamingo |  (`` / ``) | ![](./assets/macchiato/flamingo-compare.webp) |
-| Pink |  (`` / ``) | ![](./assets/macchiato/pink-compare.webp) |
-| Mauve |  (`` / ``) | ![](./assets/macchiato/mauve-compare.webp) |
-| Red |  (`` / ``) | ![](./assets/macchiato/red-compare.webp) |
-| Maroon |  (`` / ``) | ![](./assets/macchiato/maroon-compare.webp) |
-| Peach |  (`` / ``) | ![](./assets/macchiato/peach-compare.webp) |
-| Yellow |  (`` / ``) | ![](./assets/macchiato/yellow-compare.webp) |
-| Green |  (`` / ``) | ![](./assets/macchiato/green-compare.webp) |
-| Teal |  (`` / ``) | ![](./assets/macchiato/teal-compare.webp) |
-| Sky |  (`` / ``) | ![](./assets/macchiato/sky-compare.webp) |
-| Sapphire |  (`` / ``) | ![](./assets/macchiato/sapphire-compare.webp) |
-| Blue |  (`` / ``) | ![](./assets/macchiato/blue-compare.webp) |
-| Lavender |  (`` / ``) | ![](./assets/macchiato/lavender-compare.webp) |
-| Text |  (`` / ``) | ![](./assets/macchiato/text-compare.webp) |
-| Subtext 1 |  (`` / ``) | ![](./assets/macchiato/subtext1-compare.webp) |
-| Subtext 0 |  (`` / ``) | ![](./assets/macchiato/subtext0-compare.webp) |
-| Overlay 2 |  (`` / ``) | ![](./assets/macchiato/overlay2-compare.webp) |
-| Overlay 1 |  (`` / ``) | ![](./assets/macchiato/overlay1-compare.webp) |
-| Overlay 0 |  (`` / ``) | ![](./assets/macchiato/overlay0-compare.webp) |
-| Surface 2 |  (`` / ``) | ![](./assets/macchiato/surface2-compare.webp) |
-| Surface 1 |  (`` / ``) | ![](./assets/macchiato/surface1-compare.webp) |
-| Surface 0 |  (`` / ``) | ![](./assets/macchiato/surface0-compare.webp) |
-| Base |  (`` / ``) | ![](./assets/macchiato/base-compare.webp) |
-| Mantle |  (`` / ``) | ![](./assets/macchiato/mantle-compare.webp) |
-| Crust |  (`` / ``) | ![](./assets/macchiato/crust-compare.webp) |
+| Rosewater | Rosewater (`11-1408 TCX` / `#F6DBD8`) | ![](./assets/macchiato/rosewater-compare.webp) |
+| Flamingo | Rose Quartz (`13-1520 TCX` / `#F7CAC9`) | ![](./assets/macchiato/flamingo-compare.webp) |
+| Pink | Pirouette (`14-3205 TCX` / `#EDBEDC`) | ![](./assets/macchiato/pink-compare.webp) |
+| Mauve | Mauve Mist (`15-3207 TCX` / `#C49BD4`) | ![](./assets/macchiato/mauve-compare.webp) |
+| Red | Geranium Pink (`15-1922 TCX` / `#F6909D`) | ![](./assets/macchiato/red-compare.webp) |
+| Maroon | Pink Icing (`15-1717 TCX` / `#EEA0A6`) | ![](./assets/macchiato/maroon-compare.webp) |
+| Peach | Orange Chiffon (`14-1241 TCX` / `#F9AA7D`) | ![](./assets/macchiato/peach-compare.webp) |
+| Yellow | Sunlight (`13-0822 TCX` / `#EDD59E`) | ![](./assets/macchiato/yellow-compare.webp) |
+| Green | Key Lime Pie (`13-0216 TCX` / `#B1DA9D`) | ![](./assets/macchiato/green-compare.webp) |
+| Teal | Aruba Blue (`13-5313 TCX` / `#81D7D3`) | ![](./assets/macchiato/teal-compare.webp) |
+| Sky | Tanager Turquoise (`13-4720 TCX` / `#91DCE8`) | ![](./assets/macchiato/sky-compare.webp) |
+| Sapphire | Splish Splash (`16-4520 TCX` / `#69BBDD`) | ![](./assets/macchiato/sapphire-compare.webp) |
+| Blue | Open Air (`15-3922 TCX` / `#94B2DF`) | ![](./assets/macchiato/blue-compare.webp) |
+| Lavender | Windsurfer (`15-4031 TCX` / `#A3BBE0`) | ![](./assets/macchiato/lavender-compare.webp) |
+| Text | Halogen Blue (`13-3920 TCX` / `#BDC6DC`) | ![](./assets/macchiato/text-compare.webp) |
+| Subtext 1 | Xenon Blue (`14-3949 TCX` / `#B7C0D7`) | ![](./assets/macchiato/subtext1-compare.webp) |
+| Subtext 0 | Brunnera Blue (`16-3922 TCX` / `#9BA9CA`) | ![](./assets/macchiato/subtext0-compare.webp) |
+| Overlay 2 | Thistle Down (`16-3930 TCX` / `#9499BB`) | ![](./assets/macchiato/overlay2-compare.webp) |
+| Overlay 1 | Silver Bullet (`17-3933 TCX` / `#81839A`) | ![](./assets/macchiato/overlay1-compare.webp) |
+| Overlay 0 | Blue Granite (`18-3933 TCX` / `#717388`) | ![](./assets/macchiato/overlay0-compare.webp) |
+| Surface 2 | Grisaille (`18-3912 TCX` / `#585E6F`) | ![](./assets/macchiato/surface2-compare.webp) |
+| Surface 1 | Crown Blue (`19-3926 TCX` / `#464B65`) | ![](./assets/macchiato/surface1-compare.webp) |
+| Surface 0 | Mood Indigo (`19-4025 TCX` / `#353A4C`) | ![](./assets/macchiato/surface0-compare.webp) |
+| Base | Maritime Blue (`19-3831 TCX` / `#27293D`) | ![](./assets/macchiato/base-compare.webp) |
+| Mantle | Baritone Blue (`19-3812 TCX` / `#272836`) | ![](./assets/macchiato/mantle-compare.webp) |
+| Crust | Salute (`19-4011 TCX` / `#282B34`) | ![](./assets/macchiato/crust-compare.webp) |
 
 </details>
 <details>
