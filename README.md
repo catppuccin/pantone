@@ -111,7 +111,7 @@
 | Surface 0 | Mood Indigo (`19-4025 TCX` / `#353A4C`) | ![](./assets/macchiato/surface0-compare.webp) |
 | Base | Maritime Blue (`19-3831 TCX` / `#27293D`) | ![](./assets/macchiato/base-compare.webp) |
 | Mantle | Baritone Blue (`19-3812 TCX` / `#272836`) | ![](./assets/macchiato/mantle-compare.webp) |
-| Crust | Salute (`19-4011 TCX` / `#282B34`) | ![](./assets/macchiato/crust-compare.webp) |
+| Crust | Baritone Blue (`19-3812 TCX` / `#272836`) | ![](./assets/macchiato/crust-compare.webp) |
 
 </details>
 <details>
